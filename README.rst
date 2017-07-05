@@ -19,3 +19,6 @@
 
 2.不能换行，只能在一行写完Lisp语句
 
+运行解释器：
+ python interpreter.py
+
